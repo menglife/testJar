@@ -19,6 +19,7 @@ public class UserController {
     }
     @Test
     public void test(){
+        System.out.println("123");
 
 
     }
